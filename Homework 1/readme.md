@@ -83,7 +83,9 @@ Component values:
  - Rled = 1k Ohms - resistor for LED
 
 Equivalent capacitance:  Ctotal = C1 + C2 = 10μF + 10μF = 20 μF
+
 Equivalent resistance: R = Rc1 || Rc2 + Rled = 1k*1k/2k + 1k = 1.5k Ohms (we ignore LED resistance)
+
 RC time constant: RC = 20 μF * 1.5k Ohms = 30 * 10^-3 = 0.03 seconds
 
 3.2. Series RC Circuit
@@ -97,7 +99,9 @@ Component values:
  - Rled = 1k Ohms
 
 Equivalent capacitance:  Ctotal = C1*C2/(C1+c2) = 10μF*10μF / 10μF + 10μF = 5μF
+
 Equivalent resistance: R = Rc + Rled = μF
+
 RC time constant: 5μF * 3k Ohms = 0.015 seconds
 
 ### OBS: LED fades out faster on the series RC circuit
@@ -105,10 +109,13 @@ RC time constant: 5μF * 3k Ohms = 0.015 seconds
 3.3. Voltage treshold for Parallel RC circuit
 
 V0 - initial voltage = 12V
+
 Vt - Target voltage = 6V
+
 RC - time constant = 0.03
 
 Time to reach target voltage during charging:
     t = -RC * ln(1-Vt/V0) = -0.03 * ln(0.5) = -0.03 * -0.7 = 0.021 seconds
+    
 Time to reach target voltage during discharging:
     r = -RC * ln(Vt/V0) = -0.03 * ln(0.5) = 0.021 seconds
