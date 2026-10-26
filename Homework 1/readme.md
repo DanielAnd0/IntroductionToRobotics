@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 
 All circuits are exported as txt from Falstad Circuit Simulator.
 
