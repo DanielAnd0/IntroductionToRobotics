@@ -41,7 +41,6 @@ An ESP32-based intelligent lamp implementation that uses non-blocking timing, ha
 
 ![Circuit Schema](circuit_schema.png)
 
-*Figure 1: Circuit schematic diagram showing GPIO 21 connected to the button (grounded when pressed) and GPIO 18 driving the external LED through a limiting resistor.*
 
 ---
 
