@@ -38,7 +38,6 @@ An ESP32-based intelligent lamp implementation that uses non-blocking timing, ha
 
 ## Circuit Schema
 
-Place your schematic diagram image named `circuit_schema.png` in the same directory as this `README.md`.
 
 ![Circuit Schema](circuit_schema.png)
 
