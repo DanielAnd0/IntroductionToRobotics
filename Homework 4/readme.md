@@ -1,4 +1,4 @@
-# Homework 3 - Smart Lamp Controller
+# Homework 4 - Smart Lamp Controller
 
 An ESP32-based intelligent lamp implementation that uses non-blocking timing, hardware interrupts, and a state machine to cycle through various light modes based on short press and long press actions.
 
