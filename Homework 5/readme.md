@@ -69,7 +69,7 @@ All components operate on a fixed circuit powered at **3.3V**. Current-limiting 
 
 ## Circuit - Schema
 
-![Circuit Schema](circuit_schema.png)
+![Circuit Schema](Circuit_Schema.png)
 
 ## Picture 
 
