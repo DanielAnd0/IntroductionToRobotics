@@ -71,4 +71,4 @@ All components operate on a fixed circuit powered at **3.3V**. Current-limiting 
 
 Link to video demonstration showing game initialization, countdown execution, reaction stop, serial output log, and game reset:
 
-[![Watch the Video](https://youtu.be/SJ_PTR8-ziY)]
+![Watch the Video](https://youtu.be/SJ_PTR8-ziY)
