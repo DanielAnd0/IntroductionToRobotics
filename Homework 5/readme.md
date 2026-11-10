@@ -67,6 +67,14 @@ All components operate on a fixed circuit powered at **3.3V**. Current-limiting 
 
 ---
 
+## Circuit - Schema
+
+![Circuit Schema](circuit_schema.png)
+
+## Picture 
+
+
+
 ## Video Demonstration
 
 Link to video demonstration showing game initialization, countdown execution, reaction stop, serial output log, and game reset:
